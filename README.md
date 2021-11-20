@@ -1,2 +1,2 @@
-# Facemask-detection
-Project Done by Vani rao &amp; Satyanarayana
+# FACEMASKDETECTION-
+PROJECT BY Satyanarayana and Vani rao
